@@ -9,7 +9,7 @@ import com.polidea.rxandroidble2.LogOptions;
 
 import com.polidea.rxandroidble2.internal.logger.LoggerSetup;
 import java.lang.annotation.Retention;
-import java.lang.annotation.RetentionPolicy;
+import java.lang.annotation.RetentionPolicy;qq
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
